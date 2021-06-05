@@ -1,6 +1,6 @@
 ### Chapter 3 - Linear Regression
 
-Statistical learning theory deals with the problem of finding a predictive function based on data. This function has input variables called predictors or features, and output variables called responses. This chapter explores the following major topics:
+Linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This chapter explores the following major topics:
 <ol>
 <li>Simple Linear Regression</li>
 <li>Residual Sum of Squares</li>
