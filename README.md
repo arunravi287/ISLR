@@ -2,7 +2,6 @@
 
 This page contains all the python code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
 
-<center>
 |    Index   |
 |:----------:|
 | [Chapter 2 - Statistical Learning](https://arunravi287.github.io/ISLR/Chapter%202/)  |
@@ -14,5 +13,3 @@ This page contains all the python code I wrote when I started to learn Machine L
 | [Chapter 8 - Tree-Based Methods] |
 | [Chapter 9 - Support Vector Machines] |
 | [Chapter 10 - Unsupervised Learning] |
-</center>
-
