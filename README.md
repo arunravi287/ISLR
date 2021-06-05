@@ -5,7 +5,7 @@ This page contains all the python code I wrote when I started to learn Machine L
 |    Index   |
 |:----------:|
 | [Chapter 2 - Statistical Learning](https://arunravi287.github.io/ISLR/Chapter%202/)  |
-| [Chapter 3 - Linear Regression](https://github.com/arunravi287/ISLR/tree/main/Chapter%203)  |
+| [Chapter 3 - Linear Regression](https://arunravi287.github.io/ISLR/Chapter%203/)  |
 | [Chapter 4 - Classification] |
 | [Chapter 5 - Resampling Methods] |
 | [Chapter 6 - Linear Model Selection and Regularization] |
