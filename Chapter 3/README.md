@@ -9,11 +9,13 @@ Statistical learning theory deals with the problem of finding a predictive funct
 6. Interaction terms in Linear Regression
 7. Non-Linear terms in Linear Regression
 8. Problems with Linear Regression
-      - Non-linearity of data
-      - Correlation of error terms
-      - Non-constant variance of error terms
-      - Outliers
-      - High Leverage point
+<ul>
+      <li>Non-linearity of data</li>
+      <li>Correlation of error terms</li>
+      <li>Non-constant variance of error terms</li>
+      <li>Outliers</li>
+      <li>High Leverage point</li>
+</ul>
 9. Linear Regression vs KNN Regressor
 
 Link to Lab:
