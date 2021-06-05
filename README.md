@@ -6,7 +6,7 @@ This page contains -
 
 | Index      |
 |------------|
-| [Chapter 2](/blob/main/Chapter 2/Exercises/)  |
+| [Chapter 2](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/Exercises/Exercises.ipynb)  |
 | Chapter 3  |
 | Chapter 4  |
 | Chapter 5  |
