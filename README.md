@@ -1,12 +1,6 @@
 ### ISLR in Python
 
-This page contains all the pyhton code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.* The tech stack used in the project is as follows:
- - numpy
- - pandas
- - matplotlib
- - seaborn
- - scikit-learn
- - statsmodels
+This page contains all the pyhton code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
 
 |    Index   |      |                   |
 |:----------:|------|-------------------|
