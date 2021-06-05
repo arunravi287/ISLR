@@ -1,6 +1,6 @@
 ### ISLR in Python
 
-This page contains all the pyhton code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
+This page contains all the python code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
 
 |    Index   |      |                   |
 |:----------:|------|-------------------|
