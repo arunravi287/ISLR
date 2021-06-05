@@ -4,14 +4,14 @@ This page contains -
 - Labs within the chapter in Python
 - Applied exercises at the end of the chapter in Pyhton
 
-| Index      |
-|------------|
-| [Chapter 2](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/Exercises/Exercises.ipynb)  |
-| Chapter 3  |
-| Chapter 4  |
-| Chapter 5  |
-| Chapter 6  |
-| Chapter 7  |
-| Chapter 8  |
-| Chapter 9  |
-| Chapter 10 |
+|    Index   |      |                   |
+|:----------:|------|-------------------|
+| [Chapter 2](https://github.com/arunravi287/ISLR/tree/main/Chapter%202)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Lab) | [Applied Exercises](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Exercises) |
+| Chapter 3  | Labs | Applied Exercises |
+| Chapter 4  | Labs | Applied Exercises |
+| Chapter 5  | Labs | Applied Exercises |
+| Chapter 6  | Labs | Applied Exercises |
+| Chapter 7  | Labs | Applied Exercises |
+| Chapter 8  | Labs | Applied Exercises |
+| Chapter 9  | Labs | Applied Exercises |
+| Chapter 10 | Labs | Applied Exercises |
