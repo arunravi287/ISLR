@@ -2,7 +2,7 @@
 
 | Index      |
 |------------|
-| Chapter 2 (Chapter 2/Exercises)  |
+| Chapter 2 (/Chapter 2/Exercises)  |
 | Chapter 3  |
 | Chapter 4  |
 | Chapter 5  |
