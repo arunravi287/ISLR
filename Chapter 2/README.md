@@ -1,10 +1,14 @@
 ### Chapter 2 - Statistical Learning
 
-Statistical learning theory deals with the problem of finding a predictive function based on data. This function has input variables called predictors or features, and output variables called responses. Say we have predictors $ X = (x_{1}, x_{2}, \ldots, x_{p}) $ and a response $ Y $ given by:
-
-$ \normalsize Y = f(X) + \epsilon $
-
-where $f$ is an unknown function and $ \epsilon $ is a random error term that is independent of $ X $ and has a mean of zero. Now Statistical Learning is the process of approximating $ f $ such that it resembles the actual relationship between $ X $ and $ Y $ as closely as possible.
+Statistical learning theory deals with the problem of finding a predictive function based on data. This function has input variables called predictors or features, and output variables called responses. This chapter explores the following major topics:
+1. Why is Statistical Learning Important?
+2. Parametric methods vs Non-parametric methods
+3. Model flexibility vs Model Interpretability
+4. Supervised Learning vs Unsupervised Learning
+5. Regression vs Classification
+6. Measuing model accuracy
+7. Bias-Variance Trade-Off
+8. Bayes Classifier vs KNN Classifier
 
 
 Links to Labs:
