@@ -9,6 +9,7 @@ Statistical learning theory deals with the problem of finding a predictive funct
 <li>Qualitative predictors in Linear Regression</li>
 <li>Interaction terms in Linear Regression</li>
 <li>Non-Linear terms in Linear Regression</li>
+<li>Linear Regression vs KNN Regressor</li>
 <li>Problems with Linear Regression</li>
 <ul>
       <li>Non-linearity of data</li>
@@ -17,7 +18,6 @@ Statistical learning theory deals with the problem of finding a predictive funct
       <li>Outliers</li>
       <li>High Leverage point</li>
 </ul>
-<li>Linear Regression vs KNN Regressor</li>
 </ol>
 
 Link to Lab:
