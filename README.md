@@ -1,6 +1,6 @@
 ### ISLR in Python
 
-This page contains -
+This page contains all the pyhton code I wrote when I started to learning Machine Learning. It specifically contains the following - 
 - Labs within the chapter in Python
 - Applied exercises at the end of the chapter in Pyhton
 
