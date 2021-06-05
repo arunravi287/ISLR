@@ -17,7 +17,7 @@ This page contains all the pyhton code I wrote when I started to learn Machine L
 | Chapter 10 | Labs | Applied Exercises |
 
 <br>
-The tech stack used in the project is as follows -
+The tech stack used in the project is as follows:
 - numpy
 - pandas
 - matplotlib
