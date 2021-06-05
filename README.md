@@ -2,16 +2,16 @@
 
 This page contains all the python code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
 
-|    Index   |      |                   |
-|:----------:|------|-------------------|
-| [Chapter 2](https://arunravi287.github.io/ISLR/Chapter%202/)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Lab) | [Applied Exercises](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Exercises) |
-| [Chapter 3](https://github.com/arunravi287/ISLR/tree/main/Chapter%203)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%203/Labs) | Applied Exercises |
-| Chapter 4  | Labs | Applied Exercises |
-| Chapter 5  | Labs | Applied Exercises |
-| Chapter 6  | Labs | Applied Exercises |
-| Chapter 7  | Labs | Applied Exercises |
-| Chapter 8  | Labs | Applied Exercises |
-| Chapter 9  | Labs | Applied Exercises |
-| Chapter 10 | Labs | Applied Exercises |
+|    Index   |
+|:----------:|
+| [Chapter 2 - Statistical Learning](https://arunravi287.github.io/ISLR/Chapter%202/)  |
+| [Chapter 3 - Linear Regression](https://github.com/arunravi287/ISLR/tree/main/Chapter%203)  |
+| [Chapter 4 - Classification] |
+| [Chapter 5 - Resampling Methods] |
+| [Chapter 6 - Linear Model Selection and Regularization] |
+| [Chapter 7 - Moving Beyond Linearity] |
+| [Chapter 8 - Tree-Based Methods] |
+| [Chapter 9 - Support Vector Machines] |
+| [Chapter 10 - Unsupervised Learning] |
 
 
