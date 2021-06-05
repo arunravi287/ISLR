@@ -2,8 +2,8 @@
 
 This page contains all the pyhton code I wrote when I started to learn Machine Learning from *"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.*
 
-|    Index                  |
-|:-----------|----------|----------------|
+|    Index   |      |                   |
+|:----------:|------|-------------------|
 | [Chapter 2](https://github.com/arunravi287/ISLR/tree/main/Chapter%202)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Lab) | [Applied Exercises](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Exercises) |
 | [Chapter 3](https://github.com/arunravi287/ISLR/tree/main/Chapter%203)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%203/Labs) | Applied Exercises |
 | Chapter 4  | Labs | Applied Exercises |
