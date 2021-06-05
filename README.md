@@ -6,7 +6,7 @@ This page contains -
 
 | Index      |
 |------------|
-| [Chapter 2](/Chapter%2/)  |
+| [Chapter 2](/Chapter%2/Exercises/Exercises.ipynb)  |
 | Chapter 3  |
 | Chapter 4  |
 | Chapter 5  |
