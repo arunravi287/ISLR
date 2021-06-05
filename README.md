@@ -4,7 +4,7 @@ This page contains all the python code I wrote when I started to learn Machine L
 
 |    Index   |      |                   |
 |:----------:|------|-------------------|
-| [Chapter 2](https://github.com/arunravi287/ISLR/tree/main/Chapter%202)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Lab) | [Applied Exercises](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Exercises) |
+| [Chapter 2](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/README.md)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Lab) | [Applied Exercises](https://github.com/arunravi287/ISLR/tree/main/Chapter%202/Exercises) |
 | [Chapter 3](https://github.com/arunravi287/ISLR/tree/main/Chapter%203)  | [Labs](https://github.com/arunravi287/ISLR/tree/main/Chapter%203/Labs) | Applied Exercises |
 | Chapter 4  | Labs | Applied Exercises |
 | Chapter 5  | Labs | Applied Exercises |
