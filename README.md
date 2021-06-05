@@ -18,9 +18,10 @@ This page contains all the pyhton code I wrote when I started to learn Machine L
 
 <br>
 The tech stack used in the project is as follows:</br>
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- statsmodels
+ - numpy
+ - pandas
+ - matplotlib
+ - seaborn
+ - scikit-learn
+ - statsmodels
+
