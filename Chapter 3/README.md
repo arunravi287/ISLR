@@ -24,5 +24,5 @@ Link to Lab:
  - [Linear Regression](https://arunravi287.github.io/ISLR/Chapter%203/Labs/Linear%20Regression.html)
 
 Links to Exercises:
- - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%203/Exercises/Conceptual%20Exercises.html)
+ - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%203/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
  - [Applied Exercises](https://arunravi287.github.io/ISLR/Chapter%203/Exercises/Applied%20Exercises.html)
