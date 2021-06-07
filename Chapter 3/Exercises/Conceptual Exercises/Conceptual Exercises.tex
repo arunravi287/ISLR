@@ -1,0 +1,103 @@
+\documentclass[12pt, letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{relsize}
+
+\title{Chapter 3 - Linear Regression}
+\date{}
+
+\begin{document}
+\section*{Chapter 3 - Linear Regression}
+
+\begin{enumerate}
+\item This is the result of regressing $sales$ onto $TV$, $radio$ and 	$newspaper$. From the table we can conclude the following:
+	\begin{enumerate}
+	\item For a 1000 unit increase in $TV$ based ads, keeping $radio$ 	and $newspaper$ based ads unchanged, we will observe a 46 unit 			increase in $sales$.
+	
+	\item For a 1000 unit increase in $radio$ based ads, keeping $TV$ 	and $newspaper$ based ads unchanged, we will observe a 189 unit 		increase in $sales$.
+	
+	\item We also see that the t-statistic of the coefficient for 			$newspaper$ is very small. Consequently the p-value is close to 		1, thus suggesting that $newspaper$ is statistically 					insignificant.
+	\end{enumerate}
+	
+\item For an input $x$ the KNN-classifier will find the K closest points to $x$ and assign the most frequently occurring class amongst the set of close points to $x$. The KNN-regressor on the other hand will assign the average of the K closest points as the predicted value.
+
+\item $X_1$ is GPA, $X_2$ is IQ, $X_3$ is Gender (1 for Female and 0 for Male), $X_4$ is the interaction between GPA and IQ, and $X_5$ is the interaction between GPA and Gender. Thus salary ($S$) can be equated as follows:
+	\begin{center}
+	$S = 50 + 20X_1 + 0.07X_2 + 35X_3 + 0.01X_1X_2 - 10X_1X_3$
+	\end{center}
+	
+	\begin{enumerate}
+	\item $S_{F} = 50 + 20X_1 + 0.07X_2 + 35 + 							0.01X_1X_2 - 10X_1$\\
+	$S_{M} = 50 + 20X_1 + 0.07X_2 + 0.01X_1X_2$\\
+	
+	\begin{center}
+	$S_{F} - S_{M} = 35 - 10X_1$
+	\end{center}	
+	Now if $35 > 10X_1$ then $S_{F} > S_{M}$ else $S_{F} <= S_{M}$. 		Thus for a given IQ and GPA, males earn more than females 				provided GPA is high enough.
+	
+	\item $S_F = 50 + 20(4) + 0.07(110) + 35 + 0.01(4)(110) - 10(4)$\\
+	$S_F = 137.1$ units.
+	
+	\item The significance of a predictor cannot be accurately determined from its coefficient ($\beta$). The p-value for the t-statistic needs to be computed. The t-statistic is got by dividing $\beta$ by the standard error of $\beta$ ($SE(\beta)$). So if $SE(\beta) <<< \beta$ then $\beta$ will be significant.	
+	\end{enumerate}	
+	
+	\item \begin{enumerate}
+	\item When comparing based on training RSS, the cubic fit is expected to be slightly better or very similar to the linear fit.
+	
+	\item When comparing based on test RSS, the cubic fit is expected to be worse than the linear fit due to overfitting.
+	
+	\item When comparing based on training RSS, the cubic fit will be much better than the linear fit as the true relationship between the predictors and response is non-linear.
+	
+	\item When comparing based on test RSS, we have two situations that might arise. In the first case if the true relationship is closer to linear than non-linear than the linear fit is expected to do better. If the true relationship is very far from linear, then the cubic fit is expected to have a better test RSS.
+	\end{enumerate}
+	\item $\hat{y_i} = x_i \hat{\beta}$ where $\hat{\beta} = \large \frac{\sum\limits_{i=1}^n x_i y_i}{\sum\limits_{j=1}^n x_j^2}$\\
+	
+	$\hat{y_i} = x_i \frac{\sum\limits_{k=1}^n x_k y_k}{\sum\limits_{j=1}^n x_j^2} $\\
+	
+	$\hat{y_i} = \frac{x_i x_1 y_1 + x_i x_2 y_2 + ... x_i x_n y_n}{\sum\limits_{j=1}^n x_j^2} $\\
+	
+	$\hat{y_i} = \frac{x_i x_1 y_1}{\sum\limits_{j=1}^n x_j^2} + \frac{x_i x_2 y_2}{\sum\limits_{j=1}^n x_j^2} + ... \frac{x_i x_n y_n}{\sum\limits_{j=1}^n x_j^2} $\\
+	
+	$\hat{y_i} = \mathlarger{\sum}\limits_{k=1}^n \frac{x_i x_k}{\sum\limits_{j=1}^n x_j^2}  y_k$\\
+	
+	Therefore, $ a_k = \frac{x_i x_k}{\sum\limits_{j=1}^n x_j^2}$
+	
+	\newpage
+	\item $Y = \beta_0 + \beta_1 X$\\
+	
+	$\beta_0 = \bar{y} - \beta_1 \bar{x}$ and $\beta_1 =\frac{\sum\limits_{i=1}^n(x_i - \bar{x}) (y_i - \bar{y})}{\sum\limits_{j=1}^n(x_j - \bar{x})^2}$\\
+	
+	$ Y = \bar{y} - \frac{\sum\limits_{i=1}^n(x_i - \bar{x}) (y_i - \bar{y})}{\sum\limits_{j=1}^n(x_j - \bar{x})^2} \bar{x} + \frac{\sum\limits_{i=1}^n(x_i - \bar{x}) (y_i - \bar{y})}{\sum\limits_{j=1}^n(x_j - \bar{x})^2} X$\\
+	
+	Now if a line passes through $(\bar{x},\bar{y})$, then for $X = \bar{x}, Y$ will be equal to $\bar{y}$. Plugging $X = \bar{x}$ in the above equation we see that the second and third terms of the equation cancel each other and we are left with $Y = \bar{y}$.
+	
+	
+	\item $Cor(x,y) = \frac{\sum\limits_{i=1}^n(x_i - \bar{x}) (y_i - \bar{y})}{\sqrt{\sum\limits_{j=1}^n(x_j - \bar{x})^2} \sqrt{\sum\limits_{j=1}^n(y_j - \bar{y})^2}}$\\
+	
+	Given $\bar{x} = \bar{y} = 0$,  $Cor(x,y) = \frac{\sum\limits_{i=1}^n x_i y_i}{\sqrt{\sum\limits_{j=1}^n x_j^2} \sqrt{\sum\limits_{j=1}^n y_j^2}}$\\
+	
+	$R^2 = \frac{TSS-RSS}{TSS} = \frac{\sum\limits_{i=1}^n (y_i - \bar{y})^2 - \sum\limits_{k=1}^n (\hat{y_k} - y_k)^2}{\sum\limits_{j=1}^n (y_j - \bar{y})^2}$\\
+	
+	$R^2 = \frac{\sum\limits_{i=1}^n y_i^2 - \sum\limits_{i=k}^n (\hat{y_k} - y_k)^2}{\sum\limits_{j=1}^n y_j^2}$\\
+	
+	$R^2 = 1 - \frac{\sum\limits_{i=k}^n (\hat{y_k} - y_k)^2}{\sum\limits_{j=1}^n y_j^2}$\\
+	
+	Now, $\hat{y_k} = \beta_0 + \beta_1 x_k$. Now since $\bar{x} = \bar{y} = 0$, $\beta_0 = 0$ and $\beta_1 = \frac{\sum\limits_{i=1}^n x_i y_i}{\sum\limits_{j=1}^n x_j^2}$.\\
+	
+	$\sum\limits_{k=1}^n (\hat{y_k} - y_k)^2 = \sum\limits_{k=1}^n (\beta_1 x_k - y_k)^2$\\
+	
+	$\sum\limits_{k=1}^n (\hat{y_k} - y_k)^2 = \beta_1^2 \sum\limits_{k=1}^n x_k^2 + \sum\limits_{k=1}^n y_k^2 - 2 \beta_1 \sum\limits_{k=1}^n x_k y_k$\\
+	
+	$\frac{\sum\limits_{k=1}^n (\hat{y_k} - y_k)^2}{\sum\limits_{j=1}^n y_j^2} = \beta_1^2 \frac{\sum\limits_{k=1}^n x_k^2}{\sum\limits_{j=1}^n y_j^2} + 1 - 2 \beta_1 \frac{\sum\limits_{k=1}^n x_k y_k}{\sum\limits_{j=1}^n y_j^2}$\\
+	
+	$R^2 = 1 - \frac{\sum\limits_{i=k}^n (\hat{y_k} - y_k)^2}{\sum\limits_{j=1}^n y_j^2} = 2 \beta_1 \frac{\sum\limits_{k=1}^n x_k y_k}{\sum\limits_{j=1}^n y_j^2} - \beta_1^2 \frac{\sum\limits_{k=1}^n x_k^2}{\sum\limits_{j=1}^n y_j^2}$\\
+	
+	Substituting $\beta_1 = \frac{\sum\limits_{i=1}^n x_i y_i}{\sum\limits_{j=1}^n x_j^2}$ in the above equation we get,\\
+	
+	$R^2 = 2 \frac{\sum\limits_{i=1}^n x_i y_i}{\sum\limits_{j=1}^n x_j^2} \frac{\sum\limits_{k=1}^n x_k y_k}{\sum\limits_{j=1}^n y_j^2} - \frac{(\sum\limits_{i=1}^n x_i y_i)^2}{(\sum\limits_{j=1}^n x_j^2)^2} \frac{\sum\limits_{k=1}^n x_k^2}{\sum\limits_{j=1}^n y_j^2}$\\
+	
+	Thus, $R^2 = \frac{(\sum\limits_{i=1}^n x_i y_i)^2}{\sum\limits_{j=1}^n x_j^2 \sum\limits_{j=1}^n y_j^2} = Cor(x,y)^2$.
+	
+\end{enumerate}
+\end{document}
