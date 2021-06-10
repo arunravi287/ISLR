@@ -11,7 +11,7 @@ Classification is the process of identifying which class an observation belongs 
 
 
 Link to Lab:
- - [Lab](https://arunravi287.github.io/ISLR/Chapter%204/Labs/Classification.html)
+ - [Classification](https://arunravi287.github.io/ISLR/Chapter%204/Labs/Classification.html)
 
 Links to Exercises:
  - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%204/Exercises/Conceptual%20Exercises.html)
