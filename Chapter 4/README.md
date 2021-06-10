@@ -14,5 +14,5 @@ Link to Lab:
  - [Classification](https://arunravi287.github.io/ISLR/Chapter%204/Labs/Classification.html)
 
 Links to Exercises:
- - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%204/Exercises/Conceptual%20Exercises.pdf)
+ - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%204/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
  - [Applied Exercises](https://arunravi287.github.io/ISLR/Chapter%202/Exercises/Applied%20Exercises.html)
