@@ -6,7 +6,7 @@ Statistical learning theory deals with the problem of finding a predictive funct
 3. Model Flexibility vs Model Interpretability
 4. Supervised Learning vs Unsupervised Learning
 5. Regression vs Classification
-6. Measuing model accuracy
+6. Measuring model accuracy
 7. Bias-Variance Trade-Off
 8. Bayes Classifier vs KNN Classifier
 
