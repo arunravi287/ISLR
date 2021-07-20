@@ -9,8 +9,8 @@ Resampling Methods involve repeatedly drawing samples from a training set and re
 
 
 Link to Lab:
- - [Resampling Methods](https://arunravi287.github.io/ISLR/Chapter%205/Labs/Resampling%20Methods.html)
+ - [Resampling Methods](https://github.com/arunravi287/ISLR/blob/main/Chapter%205/Labs/Resampling%20Methods.ipynb)
 
 Links to Exercises:
  - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%205/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
- - [Applied Exercises](https://arunravi287.github.io/ISLR/Chapter%205/Exercises/Applied%20Exercises.html)
+ - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%205/Exercises/Applied%20Exercises.ipynb)
