@@ -12,9 +12,9 @@ Statistical learning theory deals with the problem of finding a predictive funct
 
 
 Links to Labs:
- - [Introduction to NumPy](https://arunravi287.github.io/ISLR/Chapter%202/Lab/Introduction%20to%20NumPy.ipynb)
- - [Introduction to Pandas](https://arunravi287.github.io/ISLR/Chapter%202/Lab/Introduction%20to%20Pandas.ipynb)
+ - [Introduction to NumPy](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/Lab/Introduction%20to%20NumPy.ipynb)
+ - [Introduction to Pandas](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/Lab/Introduction%20to%20Pandas.ipynb)
 
 Links to Exercises:
  - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%202/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
- - [Applied Exercises](https://arunravi287.github.io/ISLR/Chapter%202/Exercises/Applied%20Exercises.ipynb)
+ - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%202/Exercises/Applied%20Exercises.ipynb)
