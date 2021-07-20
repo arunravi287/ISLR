@@ -8,7 +8,7 @@ This page contains all the python code I wrote when I started to learn Machine L
 | [Chapter 3 - Linear Regression](https://arunravi287.github.io/ISLR/Chapter%203/)  |
 | [Chapter 4 - Classification](https://arunravi287.github.io/ISLR/Chapter%204/) |
 | [Chapter 5 - Resampling Methods](https://arunravi287.github.io/ISLR/Chapter%205/) |
-| [Chapter 6 - Linear Model Selection and Regularization] |
+| [Chapter 6 - Linear Model Selection and Regularization](https://arunravi287.github.io/ISLR/Chapter%206/) |
 | [Chapter 7 - Moving Beyond Linearity] |
 | [Chapter 8 - Tree-Based Methods] |
 | [Chapter 9 - Support Vector Machines] |
