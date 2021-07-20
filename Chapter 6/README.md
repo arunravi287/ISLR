@@ -15,7 +15,7 @@ The linear model can be extended to give better prediction accuracy. This can be
 Link to Lab:
  - [Subset Selection Methods](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Labs/Subset%20Selection%20Methods.ipynb)
  - [Ridge Regression and the Lasso](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Labs/Ridge%20Regression%20and%20the%20Lasso.ipynb)
- - [PCR and PLS Regression]
+ - [PCR and PLS Regression](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Labs/PCR%20and%20PLS%20Regression.ipynb)
 
 Links to Exercises:
  - [Conceptual Exercises]
