@@ -19,4 +19,4 @@ Link to Lab:
 
 Links to Exercises:
  - [Conceptual Exercises]
- - [Applied Exercises]
+ - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Exercises/Applied%20Exercises.ipynb)
