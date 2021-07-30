@@ -18,5 +18,5 @@ Link to Lab:
  - [PCR and PLS Regression](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Labs/PCR%20and%20PLS%20Regression.ipynb)
 
 Links to Exercises:
- - [Conceptual Exercises]
+ - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%206/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
  - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Exercises/Applied%20Exercises.ipynb)
