@@ -13,7 +13,7 @@ Non-linear models generally consists of a non linear predictor space. Non-linear
 
 
 Link to Lab:
- - [Non-Linear Modeling](https://github.com/arunravi287/ISLR/blob/main/Chapter%207/Labs/Non%20Linear%20Modeling.ipynb)
+ - [Moving Beyond Linearity](https://github.com/arunravi287/ISLR/blob/main/Chapter%207/Labs/Movingn%20Beyond%20Linearity.ipynb)
 
 Links to Exercises:
  - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%207/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
