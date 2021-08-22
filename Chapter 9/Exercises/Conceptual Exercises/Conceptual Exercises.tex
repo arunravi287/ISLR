@@ -1,0 +1,53 @@
+\documentclass[12pt, letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{relsize}
+\usepackage{graphicx}
+\usepackage{float}
+
+\begin{document}
+\section*{Chapter 9 - Support Vector Machines}
+\begin{enumerate}
+\item \begin{enumerate}
+\item In the below plot, the shaded blue region corresponds to $1 + 3X_1 - X_2 > 0$ and the non shaded regions corresponds to $1 + 3X_1 - X_2 < 0$.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm, height=6cm]{Q1a}
+\end{figure}
+
+\item In the below plot, the shaded blue region corresponds to $-2 + X_1 + 2X_2 < 0$ and the non shaded regions corresponds to $-2 + X_1 + 2X_2 > 0$.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm, height=6cm]{Q1b}
+\end{figure}
+
+\end{enumerate}
+
+\newpage
+
+\item In the below image the orange points correspond to $(1 + X_1)^2 + (2 - X_2)^2 < 4$, the blue points corresponds to $(1 + X_1)^2 + (2 - X_2)^2 > 4$ and the black line corresponds to $(1 + X_1)^2 + (2 - X_2)^2 = 4)$. Thus the points (0,0), (2,2), and (3,8) will belong to the Blue class, while the point (-1,1) will belong to the Orange class.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=9cm, height=9cm]{Q2}
+\end{figure}
+
+$(1 + X_1)^2 + (2 - X_2)^2 - 4 = X_1^2 + 2X_1 + X_2^2 - 4X_2 + 1$. This equation can be written as $\beta_0 + \beta_1 X_1^2 + \beta_2 X_1 + \beta_3 X_2^2 + \beta_4 X_2 = 0$ which is linear in the expanded predictor space of $X_1,X_2,X_1^2,X_2^2$.
+
+\item The below figure shows the data points in the training set and the optimal hyperplane $X_1 - X_2 - 0.5 = 0$. Any new observation will be classified to the Blue class if $X_1 - X_2 - 0.5 > 0$ and will be assigned to the Orange class if $X_1 - X_2 - 0.5 < 0$. The red dashed lines indicate the margin for the optimal hyperplane. The 4 points that lie on the red dashed lines are the support vectors of the classifier. The point (4,1) is not a support vector, and hence changing the value of the vector will not effect the optimal hyperplane.
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm, height=6cm]{Q3}
+\end{figure}
+
+The hyperplane $X_1 - X_2 - 0.9 = 0$ is not an optimal hyperplane. The below image shows the non-optimal hyperplane in green and the optimal hyperplane in black. It can be seen that the non-optimal hyperplane is closer to the points of the Blue class as compared to the Orange class.
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm, height=6cm]{Q3g}
+\end{figure}
+
+\end{enumerate}
+\end{document}
