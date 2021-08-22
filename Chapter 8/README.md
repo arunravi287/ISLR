@@ -12,7 +12,7 @@ Tree-based methods for regression and classification involves stratifying the pr
 
 
 Link to Lab:
- - [Tree Based Methods](https://github.com/arunravi287/ISLR/blob/main/Chapter%206/Labs/Tree%20Based%20Methods.ipynb)
+ - [Tree Based Methods](https://github.com/arunravi287/ISLR/blob/main/Chapter%208/Labs/Tree%20Based%20Methods.ipynb)
 
 Links to Exercises:
  - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%208/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
