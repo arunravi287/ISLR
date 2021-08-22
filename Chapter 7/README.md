@@ -16,5 +16,5 @@ Link to Lab:
  - [Non-Linear Modeling](https://github.com/arunravi287/ISLR/blob/main/Chapter%207/Labs/Non%20Linear%20Modeling.ipynb)
 
 Links to Exercises:
- - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%20/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
- - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%20/Exercises/Applied%20Exercises.ipynb)
+ - [Conceptual Exercises](https://arunravi287.github.io/ISLR/Chapter%207/Exercises/Conceptual%20Exercises/Conceptual%20Exercises.pdf)
+ - [Applied Exercises](https://github.com/arunravi287/ISLR/blob/main/Chapter%207/Exercises/Applied%20Exercises.ipynb)
